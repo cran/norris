@@ -1,12 +1,12 @@
-2d081dfdd5f0468a6ea3874013b48017 *DESCRIPTION
-5bfcdd2c8f3e68c418de3dce578c9654 *LICENSE
+fdcc066e592d2b91fa4c5763f6903c8b *DESCRIPTION
+65e4db28e0cbdd19f0bcf83183fbe0f5 *LICENSE
 bb3e9565e9897f519065e881fdf671f6 *NAMESPACE
 a08d0771dad3e7599f7ef45200b0185f *R/get_joke_categories.R
 81002ead66264bc3e6b2e1d645fae5f3 *R/get_joke_count.R
 9bcf6a0270059ff651158b6cdb30aea2 *R/get_multiple_randos.R
 628ebbab3f4def3a6b99928425e5905a *R/get_numbered_joke.R
 e40918c6f0dbdf36fd3c23e99a66d8f2 *R/get_random_joke.R
-969ca9690237061d5ece03d76f5e4c97 *README.md
+01f66af2d54630b2d8809c6149288e35 *README.md
 1107f599be07fd2ce4548a974e83a32f *man/get_joke_categories.Rd
 3c4f867bb34a9a04ebb0bd158a85bbd1 *man/get_joke_count.Rd
 75ae84b005221e3b0847469189810ffb *man/get_multiple_randos.Rd
